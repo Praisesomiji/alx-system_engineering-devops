@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$PATH:$(mkdir action)"
+export PATH="$PATH:$(mkdir action | echo $_)"
