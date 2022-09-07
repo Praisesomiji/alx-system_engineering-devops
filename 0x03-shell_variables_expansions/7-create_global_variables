@@ -1,2 +1,2 @@
 #!/bin/bash
-:wq
+echo $BEST=School >> $HOME/etc/environment
